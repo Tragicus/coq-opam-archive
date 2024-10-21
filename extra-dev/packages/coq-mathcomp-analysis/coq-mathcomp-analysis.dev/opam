@@ -2,7 +2,7 @@ opam-version: "2.0"
 maintainer: "Reynald Affeldt <reynald.affeldt@aist.go.jp>"
 
 homepage: "https://github.com/math-comp/analysis"
-dev-repo: "git+https://github.com/math-comp/analysis.git"
+dev-repo: "git+https://github.com/Tragicus/analysis.git"
 bug-reports: "https://github.com/math-comp/analysis/issues"
 license: "CECILL-C"
 
@@ -61,5 +61,5 @@ authors: [
 ]
 
 url {
-  src: "git+https://github.com/math-comp/analysis.git#master"
+  src: "git+https://github.com/Tragicus/analysis.git#pr19611"
 }

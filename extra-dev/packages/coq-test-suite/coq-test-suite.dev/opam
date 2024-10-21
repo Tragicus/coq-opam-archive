@@ -17,7 +17,7 @@ depends: [
   "ounit2" {with-test}
   "odoc" {with-doc}
 ]
-dev-repo: "git+https://github.com/coq/coq.git"
+dev-repo: "git+https://github.com/Tragicus/coq.git"
 build: [
   ["dune" "subst"] {dev}
   [ "./configure"
@@ -39,5 +39,5 @@ build: [
 ]
 
 url {
-  src: "git+https://github.com/coq/coq.git#master"
+  src: "git+https://github.com/Tragicus/coq.git#cs-save-key"
 }
